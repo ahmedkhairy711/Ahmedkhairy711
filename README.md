@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/ahmed-khairy-211083214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/4%2B%20Years-Mobile%20Development-007AFF?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/4%2B%20Years-Mobile%20%26%20Backend-007AFF?style=for-the-badge" alt="Experience" />
 </p>
 
 <div align="center">
@@ -17,14 +17,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a user-centric Mobile Developer with **4+ years of experience** turning pixel-perfect designs into robust, scalable apps. My background is in native iOS, and I've spent the last while going cross-platform — building production apps with **Flutter** and now expanding into **React Native**, alongside **React** for the web.
+I'm a user-centric Mobile & Backend Developer with **4+ years of experience** turning pixel-perfect designs into robust, scalable apps. My background is in native iOS, and I've spent the last while going cross-platform — building production apps with **Flutter** and **React Native**, while currently expanding my engineering stack into modern server-side technologies like **NestJS**, **Node.js**, and **GraphQL**.
 
 - 🍎 **Core expertise:** Native iOS development (Swift, SwiftUI, Combine)
-- 💙 **Cross-platform:** Flutter & Dart — production experience
-- ⚛️ **Currently learning & building with:** React Native, alongside Flutter and React (web)
-- 🌱 **Also exploring:** Clean Architecture & advanced Flutter patterns
-- 👯 **Looking to collaborate on:** Open-source Flutter/React Native packages or iOS utilities
-- 💬 **Ask me about:** iOS, Flutter, or React Native app architecture
+- 💙 **Cross-platform:** Flutter & Dart, React Native & React
+- 🌱 **Currently learning & building with:** Node.js, NestJS, and GraphQL
+- 🧠 **Also exploring:** Clean Architecture & advanced server-side patterns
+- 👯 **Looking to collaborate on:** Open-source Mobile packages, iOS utilities, or full-stack APIs
+- 💬 **Ask me about:** iOS, Flutter, React Native, or modern backend architecture
 
 <br>
 
@@ -44,12 +44,12 @@ I'm a user-centric Mobile Developer with **4+ years of experience** turning pixe
       Flutter • Dart • React Native
     </td>
     <td align="center" width="25%">
-      <b>Web 🌐</b><br><br>
-      <img src="https://skillicons.dev/icons?i=ts,js,react" /><br><br>
-      React • TypeScript • JavaScript
+      <b>Backend & Web 🚀</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,ts,js" /><br><br>
+      Node.js • NestJS • GraphQL • TS
     </td>
     <td align="center" width="25%">
-      <b>Tools & Backend ⚙️</b><br><br>
+      <b>Tools & Cloud ⚙️</b><br><br>
       <img src="https://skillicons.dev/icons?i=firebase,gcp,git,github" /><br><br>
       Firebase • GCP • Git
     </td>
@@ -77,5 +77,3 @@ I'm a user-centric Mobile Developer with **4+ years of experience** turning pixe
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=100&section=footer" alt="Footer" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
