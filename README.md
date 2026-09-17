@@ -17,11 +17,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a user-centric Mobile & Backend Developer with **4+ years of experience** turning pixel-perfect designs into robust, scalable apps. My background is in native iOS, and I've spent the last while going cross-platform — building production apps with **Flutter** and **React Native**, while currently expanding my engineering stack into modern server-side technologies like **NestJS**, **Node.js**, and **GraphQL**.
+I'm a user-centric Mobile & Backend Developer with **4+ years of experience** turning pixel-perfect designs into robust, scalable apps. My background is in native iOS, and I've spent the last while going cross-platform — building production apps with **Flutter** and **React Native**, while currently expanding my engineering stack into modern server-side technologies like **NestJS**, **Node.js**, **Express**, and **GraphQL**.
 
 - 🍎 **Core expertise:** Native iOS development (Swift, SwiftUI, Combine)
 - 💙 **Cross-platform:** Flutter & Dart, React Native & React
-- 🌱 **Currently learning & building with:** Node.js, NestJS, and GraphQL
+- 🌱 **Currently learning & building with:** Node.js, Express, NestJS, and GraphQL
 - 🧠 **Also exploring:** Clean Architecture & advanced server-side patterns
 - 👯 **Looking to collaborate on:** Open-source Mobile packages, iOS utilities, or full-stack APIs
 - 💬 **Ask me about:** iOS, Flutter, React Native, or modern backend architecture
@@ -45,8 +45,8 @@ I'm a user-centric Mobile & Backend Developer with **4+ years of experience** tu
     </td>
     <td align="center" width="25%">
       <b>Backend & Web 🚀</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,ts,js" /><br><br>
-      Node.js • NestJS • GraphQL • TS
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,ts,js" /><br><br>
+      Node.js • Express • NestJS • GraphQL • TS
     </td>
     <td align="center" width="25%">
       <b>Tools & Cloud ⚙️</b><br><br>
