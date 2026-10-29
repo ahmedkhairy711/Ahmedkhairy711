@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a user-centric Mobile & Backend Developer with **5 years of experience** turning pixel-perfect designs into robust, scalable apps. My background is in native iOS, and I've spent the last while going cross-platform — building production apps with **Flutter** and **React Native**, while currently expanding my engineering stack into modern server-side technologies like **NestJS**, **Node.js**, **Express**, and **GraphQL**.
+I'm a user-centric Mobile & Frontend Developer with **5 years of experience** turning pixel-perfect designs into robust, scalable apps. My background is in native iOS, and I've spent the last while going cross-platform — building production apps with **Flutter** and **React Native**, while currently expanding my engineering stack into modern server-side technologies like **NestJS**, **Node.js**, **Express**, and **GraphQL**.
 
 - 🍎 **Core expertise:** Native iOS development (Swift, SwiftUI, Combine)
 - 💙 **Cross-platform:** Flutter & Dart, React Native & React
